@@ -5,7 +5,7 @@ description: Some description.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/HardwayHQlogo.webp" alt="HARDWAY HQ" width="200">
+<img class="img-rounded" src="../assets/img/uploads/HardwayHQlogo.webp" alt="HARDWAY HQ" width="200">
 
 # About
 
