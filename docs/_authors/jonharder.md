@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/uploads/Jon500x500.webp
+photo: ../assets/img/uploads/Jon500x500.webp
 name: jonharder
 display_name: Jon Harder
 position: President of the School of Hard Knocks
