@@ -5,7 +5,7 @@ title: BANK STATEMENT #18 - Mike Morgan, Jr.
 subtitle: Mike Morgan, Jr.
 description: HEY THIS DESCRIPTION FIELD IS COOL
 image: ..\assets\img\posts\bankStatement18\58ba79_85e9ef2aa8c0493a82dcf98d2708d14b_mv2.webp
-optimized_image: assets\img\posts\bankStatement18\58ba79_85e9ef2aa8c0493a82dcf98d2708d14b_mv2.webp
+optimized_image: ..\assets\img\posts\bankStatement18\58ba79_85e9ef2aa8c0493a82dcf98d2708d14b_mv2.webp
 category: blog
 tags:
   - life
