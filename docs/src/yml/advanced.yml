@@ -1,4 +1,4 @@
-baseurl: /matt3.github.io/ # the subpath of your site, e.g. /blog
+baseurl: /matt2.github.io/ # the subpath of your site, e.g. /blog
 url: "https://mattyp42.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 language: "en"
