@@ -4,8 +4,8 @@ layout: post
 title: BANK STATEMENT #18 - Mike Morgan, Jr.
 subtitle: Mike Morgan, Jr.
 description: HEY THIS DESCRIPTION FIELD IS COOL
-image: \docs\assets\img\posts\bankStatement18\58ba79_85e9ef2aa8c0493a82dcf98d2708d14b_mv2.webp
-optimized_image: \docs\assets\img\posts\bankStatement18\58ba79_85e9ef2aa8c0493a82dcf98d2708d14b_mv2.webp
+image: /assets/img/posts/bankStatement18/58ba79_85e9ef2aa8c0493a82dcf98d2708d14b_mv2.webp
+optimized_image: /assets/img/posts/bankStatement18/58ba79_85e9ef2aa8c0493a82dcf98d2708d14b_mv2.webp
 category: blog
 tags:
   - life
@@ -50,7 +50,7 @@ That was the last time I ever saw Mikey.
 
 
 
-<img src="\docs\assets\img\posts\bankStatement18\58ba79_664549ef6c0c4c3b9b5c3b4709850c1a_mv2.webp" alt="Italian Trulli">
+<img src="/docs/assets/img/posts/bankStatement18/58ba79_664549ef6c0c4c3b9b5c3b4709850c1a_mv2.webp" alt="Italian Trulli">
 
 --
 
@@ -94,7 +94,7 @@ However, A Hero’s Celebration is returning NEXT Saturday in Teaneck, NJ with a
 
 —
 
-<img src="\docs\assets\img\posts\bankStatement18\58ba79_c135a52b81a9457aaba8e3f9f6af9df3_mv2.webp" alt="Italian Trulli">
+<img src="/docs/assets/img/posts/bankStatement18/58ba79_c135a52b81a9457aaba8e3f9f6af9df3_mv2.webp" alt="Italian Trulli">
 
 Mikey Viruet was a kind soul, was a great person, and had a smart mind. His father and stepmother have done an amazing job keeping his memory alive. His passion for learning and, ultimately, teaching are some things that can never be forgotten.
 
